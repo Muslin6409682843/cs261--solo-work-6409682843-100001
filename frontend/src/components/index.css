@@ -1,0 +1,10 @@
+body, input, textarea, select, button, label {
+  font-family: 'Inter', 'Noto Sans Thai', sans-serif;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden; /* 🔒 ป้องกัน scroll แนวนอน */
+}
